@@ -1,10 +1,8 @@
 {
-  "category": "CRYPTID",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/come-at-a-body",
     "maintainers": [
       {
@@ -18,127 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "come-at-a-body",
     "name": "Come-at-a-Body",
     "aliases": [],
     "category": "CRYPTID",
-    "subcategory": "Fearsome Critter",
+    "subcategory": "Unknown",
     "tags": [
-      "fearsome-critter",
-      "lumberjack-folklore",
-      "aggressive",
-      "direct-attacker",
-      "humorous",
-      "tall-tale"
+      "folklore",
+      "mythology"
     ],
-    "status": "folklore",
+    "status": "documented",
     "description": {
-      "summary": "An aggressively direct creature that charges straight at anyone it encounters, attacking head-on without hesitation or strategy.",
-      "full": "The Come-at-a-Body is a fearsome critter notable for its straightforward and aggressive behavior. True to its name, this creature comes directly at anyone it sees, charging head-on with no subtlety or cunning. Unlike stealthy predators or ambush hunters, the Come-at-a-Body's defining characteristic is its direct, relentless charge straight toward victims. According to lumberjack tall tales, there's no hiding from or outsmarting this creature—it simply comes directly at you. The name itself is dialectical, using 'body' to mean 'person' in the manner of old English or Scottish speech. The Come-at-a-Body represents the fearsome critter tradition's more menacing side, though the creature's absolute lack of subtlety adds dark humor to its threat."
+      "summary": "The Come-at-a-Body is a fearsome critter defined by its direct, aggressive behavior.",
+      "full": "The Come-at-a-Body is a fearsome critter defined by its direct, aggressive behavior. Unlike stealthy predators or cunning hunters, this creature has one simple strategy: it comes straight at you. No hiding, no ambush, no strategy—just a relentless frontal charge toward anyone it encounters. The name itself uses dialectical English, where \\\"body\\\" means \\\"person\\\" (as in \\\"a body could get hurt\\\" meaning \\\"a person could get hurt\\\"). The creature literally comes at a body—directly, aggressively, inevitably."
     },
     "etymology": {
-      "origin": "American lumberjack folklore, early 20th century",
-      "meaning": "'Come at a body' - dialectical for 'comes at a person'; directly attacks",
-      "first_use": "circa 1910"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
-      "type": "Fearsome Critter",
-      "subtype": "Aggressive Predator",
-      "variant": "Direct Attacker"
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
     "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "size": "Varies by account",
-      "coloration": ["varies"],
-      "features": [
-        {
-          "feature": "Aggressive build",
-          "description": "Built for direct frontal assault",
-          "frequency": "always"
-        }
-      ],
-      "morphology": "Details vary; defined by behavior rather than appearance"
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Direct charging",
-        "description": "Charges straight at targets without deviation",
-        "frequency": "always",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Relentless pursuit",
-        "description": "Never deviates from direct approach",
-        "frequency": "always",
-        "evidence_level": "folklore"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "variable",
-      "disposition": "aggressively direct",
-      "social_structure": "solitary",
-      "habitat_preference": ["forests", "lumber regions"],
-      "diet": "Carnivorous",
-      "patterns": [
-        "Charges directly at targets",
-        "No subtlety or ambush tactics",
-        "Relentless frontal assault",
-        "Cannot be evaded through hiding"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Lumber regions and forests",
-      "continents": ["North America"],
-      "countries": ["United States", "Canada"],
-      "regions": ["Lumber territories"]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "1910",
+        "date": "Unknown",
         "circa": true,
-        "source": "Lumberjack tall tale collections"
+        "source": "Traditional folklore"
       }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "American occupational folklore from lumber camps",
-      "folklore_connections": "Dialectical naming; represents direct threat with dark humor"
-    }
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
     "folklore": {
-      "traditions": ["Lumberjack tall tales"],
-      "beliefs": "Represented unavoidable danger; threat that cannot be outsmarted"
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Fearsome Creatures of the Lumberwoods by William T. Cox (1910)"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "sources": [
-    {
-      "id": "cox-1910",
-      "type": "book",
-      "title": "Fearsome Creatures of the Lumberwoods",
-      "authors": ["William T. Cox"],
-      "date": "1910"
-    }
-  ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
