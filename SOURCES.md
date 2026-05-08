@@ -1,121 +1,21 @@
-# Sources: Come-at-a-Body
+# Sources & References — Come-at-a-Body
 
-## Primary Sources
+Bibliography compiled from `api.json`. To add a source, edit `api.json` and regenerate.
 
-### Historical Documents
+## Books
 
-- **Cox, William T.** (1910). *Fearsome Creatures of the Lumberwoods*. Washington, D.C.: Judd & Detweiler.
-  - Description of direct-attacking creature
+- William T. Cox. (1910). *Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts*. Judd & Detweiler, Inc., Washington, D.C.
+- Henry H. Tryon. (1939). *Fearsome Critters*. Idlewild Press, Cornwall, NY
+- Loren Coleman, Jerome Clark. (1999). *Cryptozoology A to Z*. Simon & Schuster. ISBN: 978-0684856025
 
-- **Tryon, Henry H.** (1939). *Fearsome Critters*. Cornwall, NY: The Idlewild Press.
-  - Expanded descriptions
+## Archives & Records
 
-## Secondary Sources
+- *Fearsome Creatures of the Lumberwoods (digital edition)*. University of Nebraska–Lincoln Digital Commons. <https://digitalcommons.unl.edu/nebraskianapubs/8/>
 
-### Folklore Studies
+## Websites
 
-- **Dorson, Richard M.** (1959). *American Folklore*. Chicago: University of Chicago Press.
-  - Occupational folklore analysis
-
-- **Beck, Earl Clifton.** (1948). *Lore of the Lumber Camps*. Ann Arbor: University of Michigan Press.
-  - Lumber camp culture and dangers
-
-## Linguistic Context
-
-### Dialectical Usage
-
-**"A Body" Construction:**
-- Older English/Scottish usage
-- "A body" = "a person"
-- Common in rural working-class speech
-- Examples:
-  - "A body could get hurt"
-  - "What's a body to do?"
-  - "A body needs rest"
-
-**Authenticity:**
-- Suggests oral tradition origins
-- Working-class linguistic patterns
-- Folk speech preservation
-
-## Cultural Context
-
-### Direct vs. Subtle Dangers
-
-Lumber work involved different types of hazards:
-
-**Subtle/Hidden Dangers:**
-- Widow-makers (hidden dead branches)
-- Unstable trees
-- Hidden holes
-- Folklore: Agropelter, Hidebehind
-
-**Direct/Obvious Dangers:**
-- Falling trees
-- Charging animals
-- Log jams breaking
-- Folklore: Come-at-a-Body
-
-The Come-at-a-Body represents the second category—threats you see coming but can't avoid.
-
-### Psychological Categories of Threat
-
-**Avoidable Threats:**
-- Can be evaded through cleverness
-- Require awareness and caution
-- Reward vigilance
-
-**Unavoidable Threats:**
-- Cannot be outsmarted
-- Coming directly at you
-- Must be faced head-on
-- Reward courage over cleverness
-
-The Come-at-a-Body is the second type—pure confrontation.
-
-## Thematic Analysis
-
-### Inescapable Danger
-
-The creature represents:
-- **Fatalism:** Some dangers cannot be avoided
-- **Direct confrontation:** Must face rather than evade
-- **Honesty:** Danger that announces itself
-- **Inevitability:** Acceptance of risk
-
-### Dark Humor Elements
-
-1. **Straightforwardness:** No cunning or strategy
-2. **Inevitability:** You see it coming but can't escape
-3. **Simplicity:** One-dimensional threat
-4. **Honesty:** At least it's direct
-
-### Contrast with Other Critters
-
-**Hidebehind:**
-- Stalks from behind
-- Never seen directly
-- Subtle and cunning
-
-**Come-at-a-Body:**
-- Charges from front
-- Completely obvious
-- Direct and simple
-
-These represent opposite approaches to danger in folklore.
-
-## Occupational Relevance
-
-### Direct Hazards in Logging
-
-Workers faced unavoidable direct dangers:
-- Tree falling wrong direction
-- Log jam releasing
-- Equipment failure
-- Weather events
-
-The Come-at-a-Body embodies these: you see them coming but must face them rather than cleverly avoid them.
+- *Fearsome critters*. Wikipedia. <https://en.wikipedia.org/wiki/Fearsome_critters>
+- *Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts*. Wikipedia. <https://en.wikipedia.org/wiki/Fearsome_Creatures_of_the_Lumberwoods,_With_a_Few_Desert_and_Mountain_Beasts>
 
 ---
-
-*Documentation of direct threat folklore in occupational tradition*
+_Auto-generated from `api.json`._
